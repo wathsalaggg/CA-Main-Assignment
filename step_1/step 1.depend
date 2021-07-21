@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1623921489 source:c:\wathsala\nsbm\mis\year 1\semester 2\ca\step 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
