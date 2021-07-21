@@ -10,8 +10,8 @@ void delay(int seconds)
 }
 
 int main(){
-    printf("Student Name: GGG Wathsala \n");
-    printf("Student Number: 20938  \n");
+    printf("Student Name: Enter your name \n");
+    printf("Student Number: Student num  \n");
     printf("\nCOMPUTER NAME:");
     system("hostname");
     printf("\n");
