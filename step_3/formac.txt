@@ -1,0 +1,6 @@
+
+Physical Address    Transport Name                                            
+=================== ==========================================================
+30-65-EC-C5-26-A1   Media disconnected                                        
+F8-A2-D6-59-AF-97   \Device\Tcpip_{DF410AF5-FD2D-4B2D-B79C-8777DF376D99}      
+62-8F-1B-F8-1B-CE   \Device\Tcpip_{3A955562-4141-46E3-B075-BDCC37A71E7D}      
